@@ -27,7 +27,7 @@ We did not upload this metadata and data CSV due to copyright.
 
 In this project, we examine the use of left-wing and right-wing vocabulary in The Guardian's news language to explore the newspaper's ideological inclination.
 
-## files
+## Files
 
 **Folder: 'analysis process'**
 
