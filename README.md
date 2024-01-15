@@ -20,8 +20,7 @@ We did not upload this corpus due to copyright.
 **metadata and data CSV**
 
 
-metadata and data CSV file contains information about data and data itself, such as WebTitle, WebUrl, PublishTime, Tags, TagCounts, and Text.
-In this file, all articles and tags on one webpage are shown as strings. This is suitable for the next computational analyses.
+metadata and data CSV file contains information about data and data itself, such as WebTitle, WebUrl, PublishTime, Tags, TagCounts, and Text. We created this file by using pandas. In this file, all articles and tags on one webpage are shown as strings. This is suitable for the next computational analyses.
 We did not upload this metadata and data CSV due to copyright.
 
 
