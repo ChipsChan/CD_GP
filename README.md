@@ -1,23 +1,26 @@
-## Source Data
+## Data Source
 
-There is one cover with one title on one webpage on the Guardian. However, some of the covers may be displayed on its webpage along with other related previous reports,
-as they are a series of news. The source data we scraped from the Guardian websites contains all the covers shown on one webpage, which could be more than one. 
-We include all contents of them when analyzing because they all have effects when they are shown on the same newspaper's webpage.
-However, the webpage's title is just the main cover on the last published date instead of the titles of all covers. There is also more than one tag for one webpage's reports.
+We scraped data from the world news section on the official website of the Guardian （https://www.theguardian.com/international）.
 
-## Metadata Folder
+We use the API provided by the Guardian to achieve our goal. (https://open-platform.theguardian.com/explore/)
 
-This folder contains two CSV files: metadata.csv and metadat_list.csv, and a Jupyter notebook. 
+The Guardian is a British daily newspaper. 
 
-**metadata CSV**
-metadata CSV file contains information about data, such as WebTitle, WebUrl, PublishTime, Tags, TagCounts, and Text.
+
+## Metadata 
+
+**the Guardian Corpus Folder**
+
+We created the corpus by randomly choosing 100 world news articles in the Guardian in 2022.
+They are all saved in txt files with other information of articles in JSON format.
+We did not upload this corpus due to copyright.
+
+
+**metadata and data CSV**
+metadata and data CSV file contains information about data and data itself, such as WebTitle, WebUrl, PublishTime, Tags, TagCounts, and Text.
 In this file, all articles and tags on one webpage are shown as strings. This is suitable for the next computational analyses.
+We did not upload this metadata and data CSV due to copyright.
 
-**metadata list CSV**
-metadata CSV file contains information about data, such as WebTitle, WebUrl, PublishTime, Tags, TagCounts, and Text.
-All articles and tags on one webpage are shown in lists in this file. This is convenient for human readers to distinguish different articles on one webpage.
-Or there may be some future analyses that need data in this format.
 
-## Top 10 Countries in the Guardian world news
-This file is about data exploration. Top 10 countries in the world news section of the Guardian have been analyzed, and visualization is created to make it more clear to the audience and for further group research.
+
 
