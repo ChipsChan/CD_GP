@@ -9,10 +9,10 @@ The Guardian is a British daily newspaper.
 
 ## Metadata 
 
-**the Guardian Corpus Folder**
+**The Guardian Corpus Folder**
 
 We created the corpus by randomly choosing 100 per month's world news articles in the Guardian in 2022.
-The corpus contain 1200 articles.
+The corpus contains 1200 articles.
 They are all saved in txt files with other information of articles in JSON format.
 We did not upload this corpus due to copyright.
 
