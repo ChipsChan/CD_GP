@@ -31,12 +31,7 @@ In this project, we examine the use of left-wing and right-wing vocabulary in Th
 
 **Folder: 'analysis process'**
 
-This folder contains files used to analyze the metadata. We utilized Python to augment our metadata CSV with two new classifications: 'continent' and 'countries'. Additionally, we generated a graph showcasing the top 10 countries most frequently discussed by The Guardian. This folder includes both the output graph and the Python code used for its generation. Another file in this folder details our process for calculating the frequency and scores of words identified as left-wing and right-wing.
-
-**Folder: 'country_corpus_improved'**
-
-This folder contains a corpus in which we have categorized articles by country based on the metadata. Each article is assigned to a specific country, facilitating more detailed analysis of The Guardian's coverage across different nations.
-
+This folder contains files used to analyze the metadata. We utilized Python to calculate the frequency and scores of words identified as left-wing and right-wing.
 
 
 
