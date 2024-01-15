@@ -31,7 +31,7 @@ In this project, we examine the use of left-wing and right-wing vocabulary in Th
 
 **Folder: 'analysis process'**
 
-This folder contains files used to analyze the metadata. We utilized Python to calculate the frequency and scores of words identified as left-wing and right-wing.
+This folder contains files used for analyzing the metadata. We utilized Python to calculate the frequencies and scores of words identified as left-wing and right-wing. Additionally, we generated graphs using these results to aid in our analysis.
 
 
 
