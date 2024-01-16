@@ -35,7 +35,6 @@ In the Tools& Methods project, we analyze The Guardian's coverage across differe
 
 
 
-This folder contains files used for analyzing the metadata. We utilized Python to calculate the frequencies and scores of words identified as left-wing and right-wing. Additionally, we generated graphs using these results to aid in our analysis.
 
 
 
