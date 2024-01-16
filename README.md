@@ -1,3 +1,9 @@
+## About the repository
+
+This is a repository for the Collecting Data course Group C project. We analyze the ideological inclination of The Guardian through word frequencies of the corpus in the project.
+
+We use the same dataset and corpus in the Tools& Methods course Group B project, Differences in News Coverage of Countries and Regions in The Guardian.
+
 ## Data Source
 
 We scraped data from the world news section on the official website of the Guardian （https://www.theguardian.com/international）.
