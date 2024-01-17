@@ -37,7 +37,7 @@ We uploaded metadata CSV on GitHub, which contains information about data, such 
 
 In the Collecting Data project, we examine the use of left-wing and right-wing vocabulary in The Guardian's news language to explore the newspaper's ideological inclination.
 
-In the Tools& Methods project, we analyze The Guardian's coverage across different nations in the world news section. With the corpus we created, we can generate the most frequently discussed countries and analyze the most frequent words used in these reports of each country.
+In the Tools& Methods project, we analyze The Guardian's coverage across different nations in the world news section. With the corpus we created, we can generate the most frequently discussed countries，analyze the most frequent words used in these reports of each country, and conduct the network analysis.
 
 
 
