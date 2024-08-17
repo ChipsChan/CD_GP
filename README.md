@@ -4,6 +4,9 @@ This is a repository for the Collecting Data course Group C project. We analyze 
 
 We use the same dataset and corpus in the Tools& Methods course Group B project, Differences in News Coverage of Countries and Regions in The Guardian.
 
+The link to the report of Differences in News Coverage of Countries and Regions in The Guardian：
+https://www.canva.com/design/DAF58eHhuQc/VReWapS-jnplVMkVDze_3g/view?utm_content=DAF58eHhuQc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Data Source
 
 We scraped data from the world news section on the official website of the Guardian （https://www.theguardian.com/international）.
